@@ -7,6 +7,11 @@
 <img src="https://github.com/Svyatoslav-Vtulkin/Svyatoslav-Vtulkin/blob/main/js.gif" alt="The Unlimited">
 
 
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Svyatoslav-Vtulkin&show_icons=true&theme=radical)
+
+
 ## 🙋‍♂️ About Me
 
 🚀 Vasudev Jaiswal  
