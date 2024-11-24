@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-![Static Badge](https://img.shields.io/badge/py-python-blue?logo=python)
+
 
 
 <img src="https://github.com/Svyatoslav-Vtulkin/Svyatoslav-Vtulkin/blob/main/js.gif" alt="The Unlimited">
@@ -13,6 +13,8 @@
 
 
 ## 🙋‍♂️ About Me
+
+![Static Badge](https://img.shields.io/badge/py-python-blue?logo=python)
 
 🚀 Vasudev Jaiswal  
 *B.Tech in Computer Science and Engineering (Data Science)*  
