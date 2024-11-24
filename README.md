@@ -16,9 +16,7 @@
 
 ![Static Badge](https://img.shields.io/badge/py-python-blue?logo=python)
 
-🚀 Vasudev Jaiswal  
-*B.Tech in Computer Science and Engineering (Data Science)*  
-JSS Academy of Technical Education - Noida  
+🚀 Vtulkin Svyatoslav  
 
 💡 **Projects:**
 1. learning;
