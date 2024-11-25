@@ -1,3 +1,9 @@
+
+<p align="center">
+ <img width="600" src="cat.gif" alt="snake"/>
+</p>
+
+
 <h1 align="center">👋Hello! I am PreSicvl!</h1>
 
 <h2 align="center">Computer science student from Russia</h2>
